@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/fedlu nurhussien" target="blank"><img src="https://img.shields.io/twitter/follow/fedlu nurhussien?logo=twitter&style=for-the-badge" alt="fedlu nurhussien" /></a> </p>
 
-- 🔭 I’m currently working on **researches and projects information system for Ethiopian Universities**
+- 🔭 I’m currently working on **researches and projects information management system for Ethiopian Universities**
 
 - 🌱 I’m currently learning **Java EE, Python ,Django,Flutter,Android,React**
 
