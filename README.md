@@ -1,6 +1,6 @@
 [![MasterHead](https://www.figma.com/file/vwGPOTIQv8HWGz6S2L2e2N/README-Github-Banner-(Community)?type=design&node-id=2-146&mode=design&t=jhSbXZGLpAokTmNE-4)
 <h1 align="center">Hi 👋, I'm Fedlu Nurhussien</h1>
-<h3 align="center">A passionate frontend and backend Fullstack developer from Ethiopia</h3>
+<h3 align="center">A passionate frontend and backend Fullstack developer </h3>
 <img alt="coding" align="right" width="400"
  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
